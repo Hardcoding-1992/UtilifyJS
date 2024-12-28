@@ -1,0 +1,7 @@
+{
+  "name": "test262",
+  "devDependencies": {
+    "test262": "tc39/test262#232dfc7b6024490be6bf928f4332fe64b1e24e37",
+    "test262-harness": "^10.0.0"
+  }
+}
